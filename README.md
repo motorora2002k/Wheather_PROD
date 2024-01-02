@@ -185,7 +185,10 @@ print(end = "\r")
 
 這樣就完成了一個簡易的氣象偵測站台，因為BMP180未能偵測濕度，故還是需要使用DHT22或DHT11來進行濕度的監測，本項專案後續可以不斷擴充（如：風速計、雨量、風向…等等）
 
-## 五、資料來源
+## 五、DEMO
+[![image](https://github.com/motorora2002k/Wheather_PROD/assets/134987892/d7c4b8f6-eab2-4f7c-b66d-c374f056b3aa)](https://youtu.be/abUCQVT44-k)
+
+## 六、資料來源
 [樹莓派感測器實作(三)：簡易氣象站](https://www.circuspi.com/index.php/2022/09/02/weather-station/)
 
 [Sensors - Pressure, Temperature and Altitude with the BMP180](https://thepihut.com/blogs/raspberry-pi-tutorials/18025084-sensors-pressure-temperature-and-altitude-with-the-bmp180)
